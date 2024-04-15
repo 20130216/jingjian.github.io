@@ -1,10 +1,10 @@
-
-
-.col-md-3 {
-  margin-left: 5cm; /* 向右平移10厘米 */
+.modern-class {
+  margin-left: 3.5cm; /* "近20年行业从业经历"等文字板块及"modern-icon" 向右平移3.5厘米 确保PC端左右对称*/
 }
 
-
+.col-md-3 {
+  margin-left: 3.5cm; /* "联系我们" 向右平移3.5厘米*/
+}
 /* Magnific Popup CSS */
 .mfp-bg {
   top: 0;
